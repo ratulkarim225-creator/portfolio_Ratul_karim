@@ -1,31 +1,52 @@
-import { ZoomIn, ArrowUpRight } from "lucide-react";
+import { ArrowUpRight } from "lucide-react";
 import { Link } from "react-router-dom";
 import { cn } from "@/src/lib/utils";
 
 export default function Results() {
   const works = [
     {
-      "id": "youtube-portfolio",
-      "category": "YouTube Channel Management",
-      "title": "From Channel Creation to Monetization & SEO",
-      "desc": "Complete YouTube channel management including creation, video promotion, SEO optimization, and hitting monetization metrics.",
-      "image": "/Digital Marketing All Portfolio/Youtube Channel/Video SEO/YouTube Promotion_2.png"
+        "id": "youtube-portfolio",
+        "category": "YouTube Channel Management",
+        "title": "From Channel Creation to Monetization & SEO",
+        "desc": "Complete YouTube channel management including creation, video promotion, SEO optimization, and hitting monetization metrics.",
+        "image": "/Digital Marketing All Portfolio/Youtube Channel/Video SEO/YouTube Promotion_2.png"
     },
     {
-      "id": "google-ads",
-      "category": "Google Ads",
-      "title": "High-Intent Search Campaigns",
-      "desc": "Strategic keyword bidding and structured ad copy that drastically lowered CPC while increasing high-intent leads.",
-      "image": "/Digital Marketing All Portfolio/Google Ads/Google ads.png"
+        "id": "google-ads",
+        "category": "Google Ads",
+        "title": "High-Intent Search Campaigns",
+        "desc": "Strategic keyword bidding and structured ad copy that drastically lowered CPC while increasing high-intent leads.",
+        "image": "/Digital Marketing All Portfolio/Google Ads/Google ads.png"
     },
     {
-      "id": "gig-banners",
-      "category": "Graphic Design",
-      "title": "Professional Service Banners",
-      "desc": "Designed highly-converting professional gig banners across multiple digital marketing service categories.",
-      "image": "/Digital Marketing All Portfolio/Gig banner/YouTube video SEO and organic promotion.jpg"
+        "id": "facebook-ads",
+        "category": "Facebook Ecosystem",
+        "title": "Ads, Page & Promotion",
+        "desc": "Comprehensive Facebook marketing including page setup, organic promotion, and high-ROI ad campaigns.",
+        "image": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_3.png"
+    },
+    {
+        "id": "amazon-book",
+        "category": "Amazon Book Promotion",
+        "title": "Viral Book Marketing",
+        "desc": "Promoted Amazon Kindle books using targeted social media campaigns, mockups, and influencer outreach.",
+        "image": "/Digital Marketing All Portfolio/Amazon Book Promotin/amazon_book.jpg"
+    },
+    {
+        "id": "facebook-chatbot",
+        "category": "Facebook Chatbot",
+        "title": "Automated Messaging Flows",
+        "desc": "Developed engaging chatbots for Facebook pages to automate lead generation and customer support.",
+        "image": "/Digital Marketing All Portfolio/Gig banner/Facebook Chatbot.png"
+    },
+    {
+        "id": "gig-banners",
+        "category": "Graphic Design",
+        "title": "Professional Service Banners",
+        "desc": "Designed highly-converting professional gig banners across multiple digital marketing service categories.",
+        "image": "/Digital Marketing All Portfolio/Gig banner/YouTube video SEO and organic promotion.jpg"
     }
-  ];
+];
 
   return (
     <section className="py-16 sm:py-24 bg-surface-sage/20 relative" id="results">
@@ -36,34 +57,21 @@ export default function Results() {
           <p className="text-on-surface-variant max-w-2xl mx-auto text-lg">Click on any project to view detailed screenshots and proof of our successful campaigns. You can easily update these thumbnail images later.</p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 xl:gap-10">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 xl:gap-8 mt-8">
           {works.map((work) => (
-             <Link to={`/proof/${work.id}`} key={work.id} id={work.id} className="relative bg-white rounded-[2rem] sm:rounded-[2.5rem] p-4 sm:p-5 shadow-[0_8px_30px_rgb(0,0,0,0.04)] hover:shadow-[0_20px_40px_rgb(0,0,0,0.08)] border border-outline-variant/30 group hover:-translate-y-1 transition-all duration-300 flex flex-col cursor-pointer overflow-hidden isolate">
-               
-               {/* Background Glow Effect */}
-               <div className="absolute inset-0 bg-gradient-to-br from-primary/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 -z-10" />
-
-               <div className="relative w-full aspect-[4/3] rounded-[1.5rem] sm:rounded-[2rem] overflow-hidden mb-5 bg-gray-50 border border-outline-variant/10 shadow-inner">
-                 <img src={work.image} alt={work.title} referrerPolicy="no-referrer" className="w-full h-full object-cover filter contrast-[0.95] group-hover:contrast-100 transition-all duration-700 ease-out group-hover:scale-105" loading="lazy" />
-                 
-                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                   <div className="absolute inset-x-0 bottom-0 p-6 flex flex-col justify-end transform translate-y-4 group-hover:translate-y-0 transition-transform duration-300 ease-out">
-                     <span className="inline-flex items-center gap-2 bg-white/95 text-black px-4 py-2 rounded-full font-bold text-sm w-fit shadow-lg shadow-black/20">
-                       <ZoomIn size={16} className="text-primary" /> View Full Gallery
-                     </span>
-                   </div>
-                 </div>
+             <Link to={`/proof/${work.id}`} key={work.id} className="bg-white rounded-[2rem] p-5 shadow-sm hover:shadow-xl transition-shadow duration-300 flex flex-col group border border-gray-100/50">
+               <div className="w-full aspect-[1.4/1] rounded-[1.5rem] overflow-hidden mb-6 bg-surface-container-low border border-outline-variant/5">
+                 <img src={encodeURI(work.image)} alt={work.title} referrerPolicy="no-referrer" className="w-full h-full object-contain p-2 group-hover:scale-105 transition-transform duration-500" loading="lazy" />
                </div>
                
-               <div className="px-3 pb-3 flex flex-col flex-1 justify-between z-10">
-                 <div>
-                   <p className="text-xs font-bold text-primary mb-2 tracking-widest uppercase">{work.category}</p>
-                   <h3 className="text-xl sm:text-2xl font-extrabold mb-3 leading-tight text-gray-900 group-hover:text-primary transition-colors">{work.title}</h3>
-                   <p className="text-gray-600 line-clamp-2 text-sm sm:text-base leading-relaxed">{work.desc}</p>
-                 </div>
-                 <div className="flex items-center text-primary font-bold text-sm mt-6 group/btn w-fit transition-colors">
+               <div className="flex flex-col flex-1 px-1">
+                 <p className="text-[10px] sm:text-[11px] font-bold text-primary mb-2.5 tracking-widest uppercase">{work.category}</p>
+                 <h3 className="text-[1.1rem] sm:text-xl font-extrabold mb-3 leading-snug text-gray-900">{work.title}</h3>
+                 <p className="text-gray-500 text-[13px] sm:text-sm leading-relaxed mb-6 flex-1 line-clamp-3">{work.desc}</p>
+                 
+                 <div className="flex items-center text-primary font-bold text-[13px] sm:text-sm group/btn w-fit mt-auto shrink-0 mb-1">
                    View Case Study
-                   <ArrowUpRight size={16} className="ml-1 group-hover/btn:translate-x-1 group-hover/btn:-translate-y-1 transition-transform" />
+                   <ArrowUpRight size={15} className="ml-1 group-hover/btn:translate-x-0.5 group-hover/btn:-translate-y-0.5 transition-transform" />
                  </div>
                </div>
              </Link>

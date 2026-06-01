@@ -172,6 +172,199 @@ const worksData: Record<string, WorkData> = {
         "caption": "YouTube video SEO and organic promotion"
       }
     ]
+  },
+  "facebook-ads": {
+    "category": "Facebook Ecosystem",
+    "title": "Ads, Page & Promotion",
+    "desc": "Comprehensive Facebook marketing including page setup, organic promotion, and high-ROI ad campaigns.",
+    "metrics": [
+      "High ROI",
+      "Scale & Growth",
+      "$30k+ Spend"
+    ],
+    "image": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_3.png",
+    "folders": [
+      {
+        "name": "Campaign Dashboards",
+        "screenshots": [
+          {
+            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_3.png",
+            "caption": "Dashboard Overview"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_14.png",
+            "caption": "Active Campaigns"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/shopping ads.png",
+            "caption": "Shopping Ads"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/verified.jpg",
+            "caption": "Verified Page"
+          }
+        ]
+      },
+      {
+        "name": "Ad Results",
+        "screenshots": [
+          {
+            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_2.png",
+            "caption": "Ad Result Breakdown"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_18.jpg",
+            "caption": "Campaign Results Overview"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_22.jpg",
+            "caption": "Traffic Results"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_23.jpg",
+            "caption": "Engagement Results"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_38.jpg",
+            "caption": "Conversion Rates"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_39.jpg",
+            "caption": "ROAS Breakdown"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_42.jpg",
+            "caption": "Sales Performance"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_5.jpg",
+            "caption": "Impressions & Reach"
+          }
+        ]
+      },
+      {
+        "name": "Budget & Spend Proof",
+        "screenshots": [
+          {
+            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/VBM Spending.png",
+            "caption": "Budget Breakdown"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screen-Shot-2019-03-19-at-3.34.13-PM-1-1024x493.png",
+            "caption": "Scaling Campaigns"
+          }
+        ]
+      }
+    ]
+  },
+  "amazon-book": {
+    "category": "Amazon Book Promotion",
+    "title": "Viral Book Marketing",
+    "desc": "Promoted Amazon Kindle books using targeted social media campaigns, mockups, and influencer outreach.",
+    "metrics": [
+      "Targeted Reach",
+      "Sales Boost",
+      "Organic Engagement"
+    ],
+    "image": "/Digital Marketing All Portfolio/Amazon Book Promotin/amazon_book.jpg",
+    "folders": [
+      {
+        "name": "Book Covers & Mockups",
+        "screenshots": [
+          {
+            "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Before Book Cover.webp",
+            "caption": "Before Book Cover"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Mokeup Book Cover.png",
+            "caption": "Mockup Book Cover"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/amazon_book.jpg",
+            "caption": "Book Promotion Overview"
+          }
+        ]
+      },
+      {
+        "name": "Social Media Posts",
+        "screenshots": [
+          {
+            "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/How to reply and post in twitter.png",
+            "caption": "Twitter Post & Reply Strategy"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Post Sample1.jpeg",
+            "caption": "Social Post Sample 1"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Post Sample2.jpeg",
+            "caption": "Social Post Sample 2"
+          }
+        ]
+      },
+      {
+        "name": "Work Proof & Analytics",
+        "screenshots": [
+          {
+            "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Work Proof Sheet.png",
+            "caption": "Work Proof Sheet"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Screenshot_9.png",
+            "caption": "Promotion Proof 9"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Screenshot_10.png",
+            "caption": "Promotion Proof 10"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Screenshot_11.png",
+            "caption": "Promotion Proof 11"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Screenshot_12.png",
+            "caption": "Promotion Proof 12"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Screenshot_13.png",
+            "caption": "Promotion Proof 13"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Screenshot_14.png",
+            "caption": "Promotion Proof 14"
+          },
+          {
+            "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Screenshot_15.png",
+            "caption": "Promotion Proof 15"
+          }
+        ]
+      }
+    ]
+  },
+  "facebook-chatbot": {
+    "category": "Facebook Chatbot",
+    "title": "Automated Messaging Flows",
+    "desc": "Developed engaging chatbots for Facebook pages to automate lead generation and customer support.",
+    "metrics": [
+      "Higher Reply Rate",
+      "Lead Gen",
+      "24/7 Availability"
+    ],
+    "image": "/Digital Marketing All Portfolio/Gig banner/Facebook Chatbot.png",
+    "screenshots": [
+      {
+        "url": "/Digital Marketing All Portfolio/Gig banner/Facebook Chatbot.png",
+        "caption": "Chatbot Marketing Overview"
+      },
+      {
+        "url": "/Digital Marketing All Portfolio/Chatbot Create/Sample/Facebook chatbot_2.png",
+        "caption": "Facebook Chatbot 2"
+      },
+      {
+        "url": "/Digital Marketing All Portfolio/Chatbot Create/Sample/Facebook chatbot_3.png",
+        "caption": "Facebook Chatbot 3"
+      }
+    ]
   }
 };
 
@@ -340,7 +533,7 @@ export default function ProofPage() {
                         <img 
                           src={encodeURI(screenshot.url)} 
                           alt={screenshot.caption} 
-                          className="w-full h-auto object-cover transform transition-transform duration-1000 group-hover:scale-[1.01]"
+                          className="w-full h-auto transform transition-transform duration-1000 group-hover:scale-[1.01]"
                           loading="lazy"
                           referrerPolicy="no-referrer"
                         />
