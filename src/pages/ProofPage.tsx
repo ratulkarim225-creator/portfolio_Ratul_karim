@@ -27,17 +27,17 @@ const worksData: Record<string, WorkData> = {
       "Monetized Channel",
       "Fast Subscriber Growth"
     ],
-    "image": "/Digital Marketing All Portfolio/Youtube Channel/Video SEO/YouTube Promotion_2.png",
+    "image": "/portfolio/Youtube_Channel/Video_SEO/YouTube_Promotion_2.png",
     "folders": [
       {
         "name": "Channel Creation",
         "screenshots": [
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Channel Creation/youtube channel create_2.png",
+            "url": "/portfolio/Youtube_Channel/Channel_Creation/youtube_channel_create_2.png",
             "caption": "Channel Creation 1"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Channel Creation/youtube channel create_3.png",
+            "url": "/portfolio/Youtube_Channel/Channel_Creation/youtube_channel_create_3.png",
             "caption": "Channel Creation 2"
           }
         ]
@@ -46,35 +46,35 @@ const worksData: Record<string, WorkData> = {
         "name": "Video SEO",
         "screenshots": [
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Video SEO/YouTube Promotion_2.png",
+            "url": "/portfolio/Youtube_Channel/Video_SEO/YouTube_Promotion_2.png",
             "caption": "Video SEO 1"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-16-42.jpg",
+            "url": "/portfolio/Youtube_Channel/Video_SEO/photo_2023-02-03_18-16-42.jpg",
             "caption": "Video SEO 2"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-16-50.jpg",
+            "url": "/portfolio/Youtube_Channel/Video_SEO/photo_2023-02-03_18-16-50.jpg",
             "caption": "Video SEO 3"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-16-53.jpg",
+            "url": "/portfolio/Youtube_Channel/Video_SEO/photo_2023-02-03_18-16-53.jpg",
             "caption": "Video SEO 4"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-17-00.jpg",
+            "url": "/portfolio/Youtube_Channel/Video_SEO/photo_2023-02-03_18-17-00.jpg",
             "caption": "Video SEO 5"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-17-03.jpg",
+            "url": "/portfolio/Youtube_Channel/Video_SEO/photo_2023-02-03_18-17-03.jpg",
             "caption": "Video SEO 6"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-17-05.jpg",
+            "url": "/portfolio/Youtube_Channel/Video_SEO/photo_2023-02-03_18-17-05.jpg",
             "caption": "Video SEO 7"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-17-08.jpg",
+            "url": "/portfolio/Youtube_Channel/Video_SEO/photo_2023-02-03_18-17-08.jpg",
             "caption": "Video SEO 8"
           }
         ]
@@ -83,7 +83,7 @@ const worksData: Record<string, WorkData> = {
         "name": "Video Promotion",
         "screenshots": [
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Video Promotion/Video Promotion Sheet.png",
+            "url": "/portfolio/Youtube_Channel/Video_Promotion/Video_Promotion_Sheet.png",
             "caption": "Promotion 1"
           }
         ]
@@ -92,35 +92,35 @@ const worksData: Record<string, WorkData> = {
         "name": "Monetization",
         "screenshots": [
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Monetization/After finished work channel analytics.png",
+            "url": "/portfolio/Youtube_Channel/Monetization/After_finished_work_channel_analytics.png",
             "caption": "Monetization 1"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Monetization/YouTube Promotion_3.png",
+            "url": "/portfolio/Youtube_Channel/Monetization/YouTube_Promotion_3.png",
             "caption": "Monetization 2"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Monetization/photo_2023-02-03_18-16-55.jpg",
+            "url": "/portfolio/Youtube_Channel/Monetization/photo_2023-02-03_18-16-55.jpg",
             "caption": "Monetization 3"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Monetization/photo_2023-02-03_18-16-58.jpg",
+            "url": "/portfolio/Youtube_Channel/Monetization/photo_2023-02-03_18-16-58.jpg",
             "caption": "Monetization 4"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Monetization/photo_2023-02-03_18-17-10.jpg",
+            "url": "/portfolio/Youtube_Channel/Monetization/photo_2023-02-03_18-17-10.jpg",
             "caption": "Monetization 5"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Monetization/photo_2023-02-03_18-17-13.jpg",
+            "url": "/portfolio/Youtube_Channel/Monetization/photo_2023-02-03_18-17-13.jpg",
             "caption": "Monetization 6"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Monetization/photo_2023-02-03_18-17-26.jpg",
+            "url": "/portfolio/Youtube_Channel/Monetization/photo_2023-02-03_18-17-26.jpg",
             "caption": "Monetization 7"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Monetization/photo_2023-02-03_18-17-29.jpg",
+            "url": "/portfolio/Youtube_Channel/Monetization/photo_2023-02-03_18-17-29.jpg",
             "caption": "Monetization 8"
           }
         ]
@@ -136,18 +136,18 @@ const worksData: Record<string, WorkData> = {
       "4x Conversion Rate",
       "$10k+ Ad Spend Managed"
     ],
-    "image": "/Digital Marketing All Portfolio/Google Ads/Google ads.png",
+    "image": "/portfolio/Google_Ads/Google_ads.png",
     "screenshots": [
       {
-        "url": "/Digital Marketing All Portfolio/Google Ads/Google ads.png",
+        "url": "/portfolio/Google_Ads/Google_ads.png",
         "caption": "Google Ads 1"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Google Ads/image_2021_08_25T10_19_11_035Z.png",
+        "url": "/portfolio/Google_Ads/image_2021_08_25T10_19_11_035Z.png",
         "caption": "Google Ads 2"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Google Ads/image_2021_08_25T10_20_53_449Z.png",
+        "url": "/portfolio/Google_Ads/image_2021_08_25T10_20_53_449Z.png",
         "caption": "Google Ads 3"
       }
     ]
@@ -161,417 +161,417 @@ const worksData: Record<string, WorkData> = {
       "Increased Reach",
       "Targeted Audience"
     ],
-    "image": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_18.jpg",
+    "image": "/portfolio/Facebook_and_Instagram_Ads/Screenshot_18.jpg",
     "folders": [
       {
         "name": "Facebook and Instagram Ads",
         "screenshots": [
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/1 - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/1_-_Copy.png",
             "caption": "Ads Screenshot 1"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/1.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/1.png",
             "caption": "Ads Screenshot 2"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/1265233-FACEBOOK-ADSSOCIAL-MEDIA-MARKETING-2 - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/1265233-FACEBOOK-ADSSOCIAL-MEDIA-MARKETING-2_-_Copy.png",
             "caption": "Ads Screenshot 3"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/1265233-FACEBOOK-ADSSOCIAL-MEDIA-MARKETING-2.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/1265233-FACEBOOK-ADSSOCIAL-MEDIA-MARKETING-2.png",
             "caption": "Ads Screenshot 4"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/1669227222476.jpeg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/1669227222476.jpeg",
             "caption": "Ads Screenshot 5"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/180965101_514537533038118_1796863314300553047_n - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/180965101_514537533038118_1796863314300553047_n_-_Copy.png",
             "caption": "Ads Screenshot 6"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/180965101_514537533038118_1796863314300553047_n.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/180965101_514537533038118_1796863314300553047_n.png",
             "caption": "Ads Screenshot 7"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/188162772_197322395574452_945186613312780688_n - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/188162772_197322395574452_945186613312780688_n_-_Copy.png",
             "caption": "Ads Screenshot 8"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/188162772_197322395574452_945186613312780688_n.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/188162772_197322395574452_945186613312780688_n.png",
             "caption": "Ads Screenshot 9"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/190888065_1462327990766018_5903446203662152443_n - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/190888065_1462327990766018_5903446203662152443_n_-_Copy.png",
             "caption": "Ads Screenshot 10"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/190888065_1462327990766018_5903446203662152443_n.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/190888065_1462327990766018_5903446203662152443_n.png",
             "caption": "Ads Screenshot 11"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/2 - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/2_-_Copy.png",
             "caption": "Ads Screenshot 12"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/2.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/2.png",
             "caption": "Ads Screenshot 13"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/23a37b - Copy.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/23a37b_-_Copy.jpg",
             "caption": "Ads Screenshot 14"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/23a37b.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/23a37b.jpg",
             "caption": "Ads Screenshot 15"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/32c284.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/32c284.jpg",
             "caption": "Ads Screenshot 16"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/4 - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/4_-_Copy.png",
             "caption": "Ads Screenshot 17"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/4.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/4.png",
             "caption": "Ads Screenshot 18"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/5 - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/5_-_Copy.png",
             "caption": "Ads Screenshot 19"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/5.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/5.png",
             "caption": "Ads Screenshot 20"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/5ed8164d53a1e9830a35cf5b__bAzNohOUezvGg_8664CU9_Zq1YpRszxfGHd_Ygfrw5AulHcoi16FWblfsvM_kM1sNoFJaRyS4gYkJumC5_CgwhzjTt9Zlekoso82A82t0-AvXVmempEVrHh3K7f_6IR-_nOoF7V - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/5ed8164d53a1e9830a35cf5b__bAzNohOUezvGg_8664CU9_Zq1YpRszxfGHd_Ygfrw5AulHcoi16FWblfsvM_kM1sNoFJaRyS4gYkJumC5_CgwhzjTt9Zlekoso82A82t0-AvXVmempEVrHh3K7f_6IR-_nOoF7V_-_Copy.png",
             "caption": "Ads Screenshot 21"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/5ed8164d53a1e9830a35cf5b__bAzNohOUezvGg_8664CU9_Zq1YpRszxfGHd_Ygfrw5AulHcoi16FWblfsvM_kM1sNoFJaRyS4gYkJumC5_CgwhzjTt9Zlekoso82A82t0-AvXVmempEVrHh3K7f_6IR-_nOoF7V.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/5ed8164d53a1e9830a35cf5b__bAzNohOUezvGg_8664CU9_Zq1YpRszxfGHd_Ygfrw5AulHcoi16FWblfsvM_kM1sNoFJaRyS4gYkJumC5_CgwhzjTt9Zlekoso82A82t0-AvXVmempEVrHh3K7f_6IR-_nOoF7V.png",
             "caption": "Ads Screenshot 22"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/760_change_best-1600x900 - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/760_change_best-1600x900_-_Copy.png",
             "caption": "Ads Screenshot 23"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/760_change_best-1600x900.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/760_change_best-1600x900.png",
             "caption": "Ads Screenshot 24"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/8-1-facebook-ad-results (1).png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/8-1-facebook-ad-results_(1).png",
             "caption": "Ads Screenshot 25"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/8.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/8.png",
             "caption": "Ads Screenshot 26"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/9.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/9.png",
             "caption": "Ads Screenshot 27"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Ads Campaign Results.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Ads_Campaign_Results.png",
             "caption": "Ads Screenshot 28"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Facebook+Ads+Manager+$30,000+Spent - Copy.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Facebook+Ads+Manager+$30,000+Spent_-_Copy.jpg",
             "caption": "Ads Screenshot 29"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Facebook+Ads+Manager+$30,000+Spent.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Facebook+Ads+Manager+$30,000+Spent.jpg",
             "caption": "Ads Screenshot 30"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Haidishi LTD SS2.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Haidishi_LTD_SS2.jpg",
             "caption": "Ads Screenshot 31"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/InkedRunFaster-Intro-BA-to-funnel-25x-ROAS_LI.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/InkedRunFaster-Intro-BA-to-funnel-25x-ROAS_LI.jpg",
             "caption": "Ads Screenshot 32"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/LLLLLLLt_3 - Copy.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/LLLLLLLt_3_-_Copy.jpg",
             "caption": "Ads Screenshot 33"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/LLLLLLLt_3.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/LLLLLLLt_3.jpg",
             "caption": "Ads Screenshot 34"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screen Shot 2019-03-12 at 3.28.22 PM - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Screen_Shot_2019-03-12_at_3.28.22_PM_-_Copy.png",
             "caption": "Ads Screenshot 35"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screen Shot 2019-03-12 at 3.28.22 PM.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Screen_Shot_2019-03-12_at_3.28.22_PM.png",
             "caption": "Ads Screenshot 36"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screen-Shot-2019-03-19-at-3.34.13-PM-1-1024x493.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Screen-Shot-2019-03-19-at-3.34.13-PM-1-1024x493.png",
             "caption": "Ads Screenshot 37"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_1 - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Screenshot_1_-_Copy.png",
             "caption": "Ads Screenshot 38"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_1.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Screenshot_1.png",
             "caption": "Ads Screenshot 39"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_14.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Screenshot_14.png",
             "caption": "Ads Screenshot 40"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_18.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Screenshot_18.jpg",
             "caption": "Ads Screenshot 41"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_2 - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Screenshot_2_-_Copy.png",
             "caption": "Ads Screenshot 42"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_2.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Screenshot_2.png",
             "caption": "Ads Screenshot 43"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_22.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Screenshot_22.jpg",
             "caption": "Ads Screenshot 44"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_23.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Screenshot_23.jpg",
             "caption": "Ads Screenshot 45"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_3.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Screenshot_3.png",
             "caption": "Ads Screenshot 46"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_38.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Screenshot_38.jpg",
             "caption": "Ads Screenshot 47"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_39.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Screenshot_39.jpg",
             "caption": "Ads Screenshot 48"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_42.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Screenshot_42.jpg",
             "caption": "Ads Screenshot 49"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_5.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/Screenshot_5.jpg",
             "caption": "Ads Screenshot 50"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/VBM Spending.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/VBM_Spending.png",
             "caption": "Ads Screenshot 51"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/ads result - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/ads_result_-_Copy.png",
             "caption": "Ads Screenshot 52"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/ads result.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/ads_result.png",
             "caption": "Ads Screenshot 53"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/f5de58 - Copy.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/f5de58_-_Copy.jpg",
             "caption": "Ads Screenshot 54"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/f5de58.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/f5de58.jpg",
             "caption": "Ads Screenshot 55"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/fa192c - Copy.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/fa192c_-_Copy.jpg",
             "caption": "Ads Screenshot 56"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/fa192c.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/fa192c.jpg",
             "caption": "Ads Screenshot 57"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image (1) - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_(1)_-_Copy.png",
             "caption": "Ads Screenshot 58"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image (1).png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_(1).png",
             "caption": "Ads Screenshot 59"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image (2) - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_(2)_-_Copy.png",
             "caption": "Ads Screenshot 60"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image (2).png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_(2).png",
             "caption": "Ads Screenshot 61"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image (3) - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_(3)_-_Copy.png",
             "caption": "Ads Screenshot 62"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image (3).png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_(3).png",
             "caption": "Ads Screenshot 63"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image (4) - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_(4)_-_Copy.png",
             "caption": "Ads Screenshot 64"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image (4).png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_(4).png",
             "caption": "Ads Screenshot 65"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image (5) - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_(5)_-_Copy.png",
             "caption": "Ads Screenshot 66"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image (5).png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_(5).png",
             "caption": "Ads Screenshot 67"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image (6) - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_(6)_-_Copy.png",
             "caption": "Ads Screenshot 68"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image (6).png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_(6).png",
             "caption": "Ads Screenshot 69"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image (7) - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_(7)_-_Copy.png",
             "caption": "Ads Screenshot 70"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image (7).png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_(7).png",
             "caption": "Ads Screenshot 71"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image (8) - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_(8)_-_Copy.png",
             "caption": "Ads Screenshot 72"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image (8).png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_(8).png",
             "caption": "Ads Screenshot 73"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_-_Copy.png",
             "caption": "Ads Screenshot 74"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image.png",
             "caption": "Ads Screenshot 75"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image_2021_01_27T16_27_35_795Z-1 - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_2021_01_27T16_27_35_795Z-1_-_Copy.png",
             "caption": "Ads Screenshot 76"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image_2021_01_27T16_27_35_795Z-1.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_2021_01_27T16_27_35_795Z-1.png",
             "caption": "Ads Screenshot 77"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image_2021_03_31T01_57_55_512Z.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_2021_03_31T01_57_55_512Z.png",
             "caption": "Ads Screenshot 78"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image_2021_04_17T13_35_42_685Z.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_2021_04_17T13_35_42_685Z.png",
             "caption": "Ads Screenshot 79"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image_2021_04_21T15_03_06_662Z.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_2021_04_21T15_03_06_662Z.png",
             "caption": "Ads Screenshot 80"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image_2021_04_23T04_56_53_115Z.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_2021_04_23T04_56_53_115Z.png",
             "caption": "Ads Screenshot 81"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image_2021_07_23T14_16_59_972Z.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_2021_07_23T14_16_59_972Z.png",
             "caption": "Ads Screenshot 82"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image_2021_08_09T12_43_47_859Z.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_2021_08_09T12_43_47_859Z.png",
             "caption": "Ads Screenshot 83"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image_2021_08_25T10_22_33_055Z.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_2021_08_25T10_22_33_055Z.png",
             "caption": "Ads Screenshot 84"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image_2021_08_25T10_23_21_503Z.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_2021_08_25T10_23_21_503Z.png",
             "caption": "Ads Screenshot 85"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image_2021_08_25T10_23_42_067Z.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_2021_08_25T10_23_42_067Z.png",
             "caption": "Ads Screenshot 86"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image_2021_08_25T10_24_46_312Z - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_2021_08_25T10_24_46_312Z_-_Copy.png",
             "caption": "Ads Screenshot 87"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image_2021_08_25T10_24_46_312Z.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_2021_08_25T10_24_46_312Z.png",
             "caption": "Ads Screenshot 88"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image_2021_08_25T10_25_26_164Z - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_2021_08_25T10_25_26_164Z_-_Copy.png",
             "caption": "Ads Screenshot 89"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image_2021_08_25T10_25_26_164Z.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_2021_08_25T10_25_26_164Z.png",
             "caption": "Ads Screenshot 90"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image_2021_08_25T10_26_01_713Z - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_2021_08_25T10_26_01_713Z_-_Copy.png",
             "caption": "Ads Screenshot 91"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/image_2021_08_25T10_26_01_713Z.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/image_2021_08_25T10_26_01_713Z.png",
             "caption": "Ads Screenshot 92"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/received_4038725716158720 - Copy.gif",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/received_4038725716158720_-_Copy.gif",
             "caption": "Ads Screenshot 93"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/received_4038725716158720.gif",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/received_4038725716158720.gif",
             "caption": "Ads Screenshot 94"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/received_884812345420526 - Copy.jpeg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/received_884812345420526_-_Copy.jpeg",
             "caption": "Ads Screenshot 95"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/received_884812345420526.jpeg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/received_884812345420526.jpeg",
             "caption": "Ads Screenshot 96"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/scaling-fb-ads-Broad-Example-2 (1) - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/scaling-fb-ads-Broad-Example-2_(1)_-_Copy.png",
             "caption": "Ads Screenshot 97"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/scaling-fb-ads-Broad-Example-2 (1).png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/scaling-fb-ads-Broad-Example-2_(1).png",
             "caption": "Ads Screenshot 98"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/screen_shot_2020_03_31_at_1.38.41_pm_w720 - Copy.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/screen_shot_2020_03_31_at_1.38.41_pm_w720_-_Copy.png",
             "caption": "Ads Screenshot 99"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/screen_shot_2020_03_31_at_1.38.41_pm_w720.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/screen_shot_2020_03_31_at_1.38.41_pm_w720.png",
             "caption": "Ads Screenshot 100"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/shopping ads.png",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/shopping_ads.png",
             "caption": "Ads Screenshot 101"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/verified.jpg",
+            "url": "/portfolio/Facebook_and_Instagram_Ads/verified.jpg",
             "caption": "Ads Screenshot 102"
           }
         ]
@@ -587,54 +587,54 @@ const worksData: Record<string, WorkData> = {
       "Viral Social Reach",
       "High Conversion"
     ],
-    "image": "/Digital Marketing All Portfolio/Amazon Book Promotin/Mokeup Book Cover.png",
+    "image": "/portfolio/Amazon_Book_Promotin/Mokeup_Book_Cover.png",
     "screenshots": [
       {
-        "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/How to reply and post in twitter.png",
+        "url": "/portfolio/Amazon_Book_Promotin/How_to_reply_and_post_in_twitter.png",
         "caption": "Amazon Book Work 2"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Mokeup Book Cover.png",
+        "url": "/portfolio/Amazon_Book_Promotin/Mokeup_Book_Cover.png",
         "caption": "Amazon Book Work 3"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Post Sample1.jpeg",
+        "url": "/portfolio/Amazon_Book_Promotin/Post_Sample1.jpeg",
         "caption": "Amazon Book Work 4"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Post Sample2.jpeg",
+        "url": "/portfolio/Amazon_Book_Promotin/Post_Sample2.jpeg",
         "caption": "Amazon Book Work 5"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Screenshot_10.png",
+        "url": "/portfolio/Amazon_Book_Promotin/Screenshot_10.png",
         "caption": "Amazon Book Work 6"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Screenshot_11.png",
+        "url": "/portfolio/Amazon_Book_Promotin/Screenshot_11.png",
         "caption": "Amazon Book Work 7"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Screenshot_12.png",
+        "url": "/portfolio/Amazon_Book_Promotin/Screenshot_12.png",
         "caption": "Amazon Book Work 8"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Screenshot_13.png",
+        "url": "/portfolio/Amazon_Book_Promotin/Screenshot_13.png",
         "caption": "Amazon Book Work 9"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Screenshot_14.png",
+        "url": "/portfolio/Amazon_Book_Promotin/Screenshot_14.png",
         "caption": "Amazon Book Work 10"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Screenshot_15.png",
+        "url": "/portfolio/Amazon_Book_Promotin/Screenshot_15.png",
         "caption": "Amazon Book Work 11"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Screenshot_9.png",
+        "url": "/portfolio/Amazon_Book_Promotin/Screenshot_9.png",
         "caption": "Amazon Book Work 12"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/Work Proof Sheet.png",
+        "url": "/portfolio/Amazon_Book_Promotin/Work_Proof_Sheet.png",
         "caption": "Amazon Book Work 13"
       }
     ]
@@ -648,17 +648,17 @@ const worksData: Record<string, WorkData> = {
       "Automated Lead Gen",
       "24/7 Availability"
     ],
-    "image": "/Digital Marketing All Portfolio/Chatbot Create/Sample/Facebook chatbot_2.png",
+    "image": "/portfolio/Chatbot_Create/Sample/Facebook_chatbot_2.png",
     "folders": [
       {
         "name": "Chatbot Samples",
         "screenshots": [
           {
-            "url": "/Digital Marketing All Portfolio/Chatbot Create/Sample/Facebook chatbot_2.png",
+            "url": "/portfolio/Chatbot_Create/Sample/Facebook_chatbot_2.png",
             "caption": "Chatbot Flow 1"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Chatbot Create/Sample/Facebook chatbot_3.png",
+            "url": "/portfolio/Chatbot_Create/Sample/Facebook_chatbot_3.png",
             "caption": "Chatbot Flow 2"
           }
         ]
@@ -674,66 +674,66 @@ const worksData: Record<string, WorkData> = {
       "Professional Branding",
       "Custom Illustrations"
     ],
-    "image": "/Digital Marketing All Portfolio/Gig banner/Amazon Book Promotion.jpg",
+    "image": "/portfolio/Gig_banner/Amazon_Book_Promotion.jpg",
     "screenshots": [
       {
-        "url": "/Digital Marketing All Portfolio/Gig banner/1647701341117.jpg",
+        "url": "/portfolio/Gig_banner/1647701341117.jpg",
         "caption": "Gig Banner 1"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Gig banner/1647867491607.jpg",
+        "url": "/portfolio/Gig_banner/1647867491607.jpg",
         "caption": "Gig Banner 2"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Gig banner/20220326_114643.jpg",
+        "url": "/portfolio/Gig_banner/20220326_114643.jpg",
         "caption": "Gig Banner 3"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Gig banner/Amazon Book Promotion.jpg",
+        "url": "/portfolio/Gig_banner/Amazon_Book_Promotion.jpg",
         "caption": "Gig Banner 4"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Gig banner/Facebook Chatbot.png",
+        "url": "/portfolio/Gig_banner/Facebook_Chatbot.png",
         "caption": "Gig Banner 5"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Gig banner/Facebook Page Creation.png",
+        "url": "/portfolio/Gig_banner/Facebook_Page_Creation.png",
         "caption": "Gig Banner 6"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Gig banner/Facebook Promotion.png",
+        "url": "/portfolio/Gig_banner/Facebook_Promotion.png",
         "caption": "Gig Banner 7"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Gig banner/Facebook ads campaign.jpg",
+        "url": "/portfolio/Gig_banner/Facebook_ads_campaign.jpg",
         "caption": "Gig Banner 8"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Gig banner/Facebook marketing gig.jpg",
+        "url": "/portfolio/Gig_banner/Facebook_marketing_gig.jpg",
         "caption": "Gig Banner 9"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Gig banner/LinkedIn digital marketing cover.jpg",
+        "url": "/portfolio/Gig_banner/LinkedIn_digital_marketing_cover.jpg",
         "caption": "Gig Banner 10"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Gig banner/Screenshot_2022-03-26-11-30-55-697_com.instagram.android~2.jpg",
+        "url": "/portfolio/Gig_banner/Screenshot_2022-03-26-11-30-55-697_com.instagram.android~2.jpg",
         "caption": "Gig Banner 11"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Gig banner/Screenshot_2022-03-26-11-31-21-877_com.instagram.android~2.jpg",
+        "url": "/portfolio/Gig_banner/Screenshot_2022-03-26-11-31-21-877_com.instagram.android~2.jpg",
         "caption": "Gig Banner 12"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Gig banner/YouTube Promotion.png",
+        "url": "/portfolio/Gig_banner/YouTube_Promotion.png",
         "caption": "Gig Banner 13"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Gig banner/YouTube video SEO and organic promotion.jpg",
+        "url": "/portfolio/Gig_banner/YouTube_video_SEO_and_organic_promotion.jpg",
         "caption": "Gig Banner 14"
       },
       {
-        "url": "/Digital Marketing All Portfolio/Gig banner/youtube channel create.png",
+        "url": "/portfolio/Gig_banner/youtube_channel_create.png",
         "caption": "Gig Banner 15"
       }
     ]

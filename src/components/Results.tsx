@@ -9,42 +9,42 @@ export default function Results() {
     "category": "YouTube Channel Management",
     "title": "From Channel Creation to Monetization & SEO",
     "desc": "Complete YouTube channel management including creation, video promotion, SEO optimization, and hitting monetization metrics.",
-    "image": "/Digital Marketing All Portfolio/Youtube Channel/Video SEO/YouTube Promotion_2.png"
+    "image": "/portfolio/Youtube_Channel/Video_SEO/YouTube_Promotion_2.png"
   },
   {
     "id": "google-ads",
     "category": "Google Ads",
     "title": "High-Intent Search Campaigns",
     "desc": "Strategic keyword bidding and structured ad copy that drastically lowered CPC while increasing high-intent leads.",
-    "image": "/Digital Marketing All Portfolio/Google Ads/Google ads.png"
+    "image": "/portfolio/Google_Ads/Google_ads.png"
   },
   {
     "id": "facebook-portfolio",
     "category": "Facebook Ecosystem",
     "title": "Ads, Page & Promotion",
     "desc": "Comprehensive Facebook marketing including page setup, organic promotion, and high-ROI ad campaigns.",
-    "image": "/Digital Marketing All Portfolio/Facebook and Instagram Ads/Screenshot_18.jpg"
+    "image": "/portfolio/Facebook_and_Instagram_Ads/Screenshot_18.jpg"
   },
   {
     "id": "amazon-book",
     "category": "Amazon Book Promotion",
     "title": "Viral Book Marketing",
     "desc": "Promoted Amazon Kindle books using targeted social media campaigns, mockups, and influencer outreach.",
-    "image": "/Digital Marketing All Portfolio/Amazon Book Promotin/Mokeup Book Cover.png"
+    "image": "/portfolio/Amazon_Book_Promotin/Mokeup_Book_Cover.png"
   },
   {
     "id": "facebook-chatbot",
     "category": "Facebook Chatbot",
     "title": "Automated Messaging Flows",
     "desc": "Developed engaging chatbots for Facebook pages to automate lead generation and customer support.",
-    "image": "/Digital Marketing All Portfolio/Chatbot Create/Sample/Facebook chatbot_2.png"
+    "image": "/portfolio/Chatbot_Create/Sample/Facebook_chatbot_2.png"
   },
   {
     "id": "gig-banners",
     "category": "Graphic Design",
     "title": "Professional Service Banners",
     "desc": "Designed highly-converting professional gig banners across multiple digital marketing service categories.",
-    "image": "/Digital Marketing All Portfolio/Gig banner/Amazon Book Promotion.jpg"
+    "image": "/portfolio/Gig_banner/Amazon_Book_Promotion.jpg"
   }
 ];
 
