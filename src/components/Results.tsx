@@ -4,49 +4,28 @@ import { cn } from "@/src/lib/utils";
 
 export default function Results() {
   const works = [
-  {
-    "id": "youtube-portfolio",
-    "category": "YouTube Channel Management",
-    "title": "From Channel Creation to Monetization & SEO",
-    "desc": "Complete YouTube channel management including creation, video promotion, SEO optimization, and hitting monetization metrics.",
-    "image": "/portfolio/youtube_channel/video_seo/youtube_promotion_2.png"
-  },
-  {
-    "id": "google-ads",
-    "category": "Google Ads",
-    "title": "High-Intent Search Campaigns",
-    "desc": "Strategic keyword bidding and structured ad copy that drastically lowered CPC while increasing high-intent leads.",
-    "image": "/portfolio/google_ads/google_ads.png"
-  },
-  {
-    "id": "facebook-portfolio",
-    "category": "Facebook Ecosystem",
-    "title": "Ads, Page & Promotion",
-    "desc": "Comprehensive Facebook marketing including page setup, organic promotion, and high-ROI ad campaigns.",
-    "image": "/portfolio/facebook_and_instagram_ads/screenshot_18.jpg"
-  },
-  {
-    "id": "amazon-book",
-    "category": "Amazon Book Promotion",
-    "title": "Viral Book Marketing",
-    "desc": "Promoted Amazon Kindle books using targeted social media campaigns, mockups, and influencer outreach.",
-    "image": "/portfolio/amazon_book_promotin/mokeup_book_cover.png"
-  },
-  {
-    "id": "facebook-chatbot",
-    "category": "Facebook Chatbot",
-    "title": "Automated Messaging Flows",
-    "desc": "Developed engaging chatbots for Facebook pages to automate lead generation and customer support.",
-    "image": "/portfolio/chatbot_create/sample/facebook_chatbot_2.png"
-  },
-  {
-    "id": "gig-banners",
-    "category": "Graphic Design",
-    "title": "Professional Service Banners",
-    "desc": "Designed highly-converting professional gig banners across multiple digital marketing service categories.",
-    "image": "/portfolio/gig_banner/amazon_book_promotion.jpg"
-  }
-];
+    {
+      "id": "youtube-portfolio",
+      "category": "YouTube Channel Management",
+      "title": "From Channel Creation to Monetization & SEO",
+      "desc": "Complete YouTube channel management including creation, video promotion, SEO optimization, and hitting monetization metrics.",
+      "image": "/Digital Marketing All Portfolio/Youtube Channel/Video SEO/YouTube Promotion_2.png"
+    },
+    {
+      "id": "google-ads",
+      "category": "Google Ads",
+      "title": "High-Intent Search Campaigns",
+      "desc": "Strategic keyword bidding and structured ad copy that drastically lowered CPC while increasing high-intent leads.",
+      "image": "/Digital Marketing All Portfolio/Google Ads/Google ads.png"
+    },
+    {
+      "id": "gig-banners",
+      "category": "Graphic Design",
+      "title": "Professional Service Banners",
+      "desc": "Designed highly-converting professional gig banners across multiple digital marketing service categories.",
+      "image": "/Digital Marketing All Portfolio/Gig banner/YouTube video SEO and organic promotion.jpg"
+    }
+  ];
 
   return (
     <section className="py-16 sm:py-24 bg-surface-sage/20 relative" id="results">
@@ -64,8 +43,8 @@ export default function Results() {
                {/* Background Glow Effect */}
                <div className="absolute inset-0 bg-gradient-to-br from-primary/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 -z-10" />
 
-               <div className="relative w-full aspect-[4/3] rounded-[1.5rem] sm:rounded-[2rem] overflow-hidden mb-5 bg-surface-container-lowest border border-outline-variant/10 shadow-inner">
-                 <img src={work.image} alt={work.title} referrerPolicy="no-referrer" className="w-full h-full object-cover object-top filter contrast-[0.95] group-hover:contrast-100 transition-all duration-700 ease-out group-hover:scale-105" loading="lazy" />
+               <div className="relative w-full aspect-[4/3] rounded-[1.5rem] sm:rounded-[2rem] overflow-hidden mb-5 bg-gray-50 border border-outline-variant/10 shadow-inner">
+                 <img src={work.image} alt={work.title} referrerPolicy="no-referrer" className="w-full h-full object-cover filter contrast-[0.95] group-hover:contrast-100 transition-all duration-700 ease-out group-hover:scale-105" loading="lazy" />
                  
                  <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                    <div className="absolute inset-x-0 bottom-0 p-6 flex flex-col justify-end transform translate-y-4 group-hover:translate-y-0 transition-transform duration-300 ease-out">
