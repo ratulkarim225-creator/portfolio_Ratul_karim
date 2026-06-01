@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo:wght@400;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=DM+Serif+Display:ital@0;1&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Chivo", var(--font-sans);
+  --font-serif: "DM Serif Display", serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --color-surface: #fff7ff;
+  --color-surface-dim: #dfd7e2;
+  --color-surface-bright: #fff7ff;
+  --color-surface-container-lowest: #ffffff;
+  --color-surface-container-low: #f9f1fb;
+  --color-surface-container: #f4ebf5;
+  --color-surface-container-high: #eee5f0;
+  --color-surface-container-highest: #e8e0ea;
+  --color-on-surface: #1e1a21;
+  --color-on-surface-variant: #4b4452;
+  --color-inverse-surface: #332f36;
+  --color-inverse-on-surface: #f7eef8;
+  --color-outline: #7c7483;
+  --color-outline-variant: #cdc3d3;
+  --color-surface-tint: #7644b3;
+  
+  --color-primary: #4f188b;
+  --color-on-primary: #ffffff;
+  --color-primary-container: #6735a4;
+  --color-on-primary-container: #d7b5ff;
+  --color-inverse-primary: #d9b9ff;
+  
+  --color-secondary: #755b00;
+  --color-on-secondary: #ffffff;
+  --color-secondary-container: #fdcf4b;
+  --color-on-secondary-container: #725800;
+  
+  --color-tertiary: #523300;
+  --color-on-tertiary: #ffffff;
+  --color-tertiary-container: #714800;
+  --color-on-tertiary-container: #f3b96c;
+  
+  --color-error: #ba1a1a;
+  --color-on-error: #ffffff;
+  --color-error-container: #ffdad6;
+  --color-on-error-container: #93000a;
+  
+  --color-primary-fixed: #eedcff;
+  --color-primary-fixed-dim: #d9b9ff;
+  --color-on-primary-fixed: #2a0054;
+  --color-on-primary-fixed-variant: #5d2999;
+  
+  --color-secondary-fixed: #ffdf91;
+  --color-secondary-fixed-dim: #eec13e;
+  --color-on-secondary-fixed: #241a00;
+  --color-on-secondary-fixed-variant: #594400;
+  
+  --color-tertiary-fixed: #ffddb5;
+  --color-tertiary-fixed-dim: #f6bc6e;
+  --color-on-tertiary-fixed: #2a1800;
+  --color-on-tertiary-fixed-variant: #643f00;
+
+  --color-surface-sage: #E7EFE1;
+  --color-ink-dark: #191919;
+  --color-agency-blue: #3B82F6;
+  --color-accent-red: #FDF2F4;
+  --color-dark-green-brand: #013728;
+  --color-brand-yellow: #FCDB42;
+}
+
+@layer base {
+  body {
+    @apply bg-surface text-on-surface font-sans;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display tracking-tight;
+  }
+}
+
+.hero-gradient {
+  background: linear-gradient(180deg, #fff7ff 0%, #f4ebf5 100%);
+}
+
+.scroll-smooth {
+  scroll-behavior: smooth;
+}

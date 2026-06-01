@@ -1,0 +1,149 @@
+.env.example
+.gitignore
+all_works.json
+dist
+generate_works.cjs
+index.html
+list_files.cjs
+metadata.json
+node_modules
+package-lock.json
+package.json
+public/Digital Marketing All Portfolio/Gig banner/YouTube video SEO and organic promotion.jpg
+public/Digital Marketing All Portfolio/Google Ads/Google ads.png
+public/Digital Marketing All Portfolio/Google Ads/image_2021_08_25T10_19_11_035Z.png
+public/Digital Marketing All Portfolio/Google Ads/image_2021_08_25T10_20_53_449Z.png
+public/Digital Marketing All Portfolio/Youtube Channel/Channel Creation/youtube channel create_2.png
+public/Digital Marketing All Portfolio/Youtube Channel/Channel Creation/youtube channel create_3.png
+public/Digital Marketing All Portfolio/Youtube Channel/Monetization/After finished work channel analytics.png
+public/Digital Marketing All Portfolio/Youtube Channel/Monetization/YouTube Promotion_3.png
+public/Digital Marketing All Portfolio/Youtube Channel/Monetization/photo_2023-02-03_18-16-55.jpg
+public/Digital Marketing All Portfolio/Youtube Channel/Monetization/photo_2023-02-03_18-16-58.jpg
+public/Digital Marketing All Portfolio/Youtube Channel/Monetization/photo_2023-02-03_18-17-10.jpg
+public/Digital Marketing All Portfolio/Youtube Channel/Monetization/photo_2023-02-03_18-17-13.jpg
+public/Digital Marketing All Portfolio/Youtube Channel/Monetization/photo_2023-02-03_18-17-26.jpg
+public/Digital Marketing All Portfolio/Youtube Channel/Monetization/photo_2023-02-03_18-17-29.jpg
+public/Digital Marketing All Portfolio/Youtube Channel/Video Promotion/Video Promotion Sheet.png
+public/Digital Marketing All Portfolio/Youtube Channel/Video SEO/YouTube Promotion_2.png
+public/Digital Marketing All Portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-16-42.jpg
+public/Digital Marketing All Portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-16-50.jpg
+public/Digital Marketing All Portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-16-53.jpg
+public/Digital Marketing All Portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-17-00.jpg
+public/Digital Marketing All Portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-17-03.jpg
+public/Digital Marketing All Portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-17-05.jpg
+public/Digital Marketing All Portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-17-08.jpg
+public/facebook_etc/Facebook_Ads/Screenshot_18.jpg
+public/facebook_etc/Facebook_Ads/Screenshot_2 - Copy.png
+public/facebook_etc/Facebook_Ads/Screenshot_2.png
+public/facebook_etc/Facebook_Ads/Screenshot_22.jpg
+public/facebook_etc/Facebook_Ads/Screenshot_23.jpg
+public/facebook_etc/Facebook_Ads/Screenshot_3.png
+public/facebook_etc/Facebook_Ads/Screenshot_38.jpg
+public/facebook_etc/Facebook_Ads/Screenshot_39.jpg
+public/facebook_etc/Facebook_Ads/Screenshot_42.jpg
+public/facebook_etc/Facebook_Ads/Screenshot_5.jpg
+public/facebook_etc/Facebook_Ads/VBM Spending.png
+public/facebook_etc/Facebook_Ads/ads result - Copy.png
+public/facebook_etc/Facebook_Ads/ads result.png
+public/facebook_etc/Facebook_Ads/f5de58 - Copy.jpg
+public/facebook_etc/Facebook_Ads/f5de58.jpg
+public/facebook_etc/Facebook_Ads/fa192c - Copy.jpg
+public/facebook_etc/Facebook_Ads/fa192c.jpg
+public/facebook_etc/Facebook_Ads/image (1) - Copy.png
+public/facebook_etc/Facebook_Ads/image (1).png
+public/facebook_etc/Facebook_Ads/image (2) - Copy.png
+public/facebook_etc/Facebook_Ads/image (2).png
+public/facebook_etc/Facebook_Ads/image (3) - Copy.png
+public/facebook_etc/Facebook_Ads/image (3).png
+public/facebook_etc/Facebook_Ads/image (4) - Copy.png
+public/facebook_etc/Facebook_Ads/image (4).png
+public/facebook_etc/Facebook_Ads/image (5) - Copy.png
+public/facebook_etc/Facebook_Ads/image (5).png
+public/facebook_etc/Facebook_Ads/image (6) - Copy.png
+public/facebook_etc/Facebook_Ads/image (6).png
+public/facebook_etc/Facebook_Ads/image (7) - Copy.png
+public/facebook_etc/Facebook_Ads/image (7).png
+public/facebook_etc/Facebook_Ads/image (8) - Copy.png
+public/facebook_etc/Facebook_Ads/image (8).png
+public/gig_banners/1647701341117.jpg
+public/gig_banners/1647867491607.jpg
+public/gig_banners/20220326_114643.jpg
+public/gig_banners/Amazon Book Promotion.jpg
+public/gig_banners/Facebook Chatbot.png
+public/gig_banners/Facebook Page Creation.png
+public/gig_banners/Facebook Promotion.png
+public/gig_banners/Facebook ads campaign.jpg
+public/gig_banners/Facebook marketing gig.jpg
+public/gig_banners/LinkedIn digital marketing cover.jpg
+public/gig_banners/Screenshot_2022-03-26-11-30-55-697_com.instagram.android~2.jpg
+public/gig_banners/Screenshot_2022-03-26-11-31-21-877_com.instagram.android~2.jpg
+public/gig_banners/YouTube Promotion.png
+public/gig_banners/YouTube video SEO and organic promotion.jpg
+public/gig_banners/youtube channel create.png
+public/logos/README.txt
+public/logos/adstorm.png
+public/logos/betalist.png
+public/logos/biogen.png
+public/logos/communi.png
+public/logos/kidzstudio.png
+public/logos/mohona.png
+public/logos/reelapps.png
+public/logos/superaffiliatesai.png
+public/logos/vydoraai.png
+public/photo_2026-05-29_10-34-35.jpg
+public/portfolio/Gig banner/YouTube video SEO and organic promotion.jpg
+public/portfolio/Google Ads/Google ads.png
+public/portfolio/Google Ads/image_2021_08_25T10_19_11_035Z.png
+public/portfolio/Google Ads/image_2021_08_25T10_20_53_449Z.png
+public/portfolio/Youtube Channel/Channel Creation/youtube channel create_2.png
+public/portfolio/Youtube Channel/Channel Creation/youtube channel create_3.png
+public/portfolio/Youtube Channel/Monetization/After finished work channel analytics.png
+public/portfolio/Youtube Channel/Monetization/YouTube Promotion_3.png
+public/portfolio/Youtube Channel/Monetization/photo_2023-02-03_18-16-55.jpg
+public/portfolio/Youtube Channel/Monetization/photo_2023-02-03_18-16-58.jpg
+public/portfolio/Youtube Channel/Monetization/photo_2023-02-03_18-17-10.jpg
+public/portfolio/Youtube Channel/Monetization/photo_2023-02-03_18-17-13.jpg
+public/portfolio/Youtube Channel/Monetization/photo_2023-02-03_18-17-26.jpg
+public/portfolio/Youtube Channel/Monetization/photo_2023-02-03_18-17-29.jpg
+public/portfolio/Youtube Channel/Video Promotion/Video Promotion Sheet.png
+public/portfolio/Youtube Channel/Video SEO/YouTube Promotion_2.png
+public/portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-16-42.jpg
+public/portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-16-50.jpg
+public/portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-16-53.jpg
+public/portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-17-00.jpg
+public/portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-17-03.jpg
+public/portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-17-05.jpg
+public/portfolio/Youtube Channel/Video SEO/photo_2023-02-03_18-17-08.jpg
+public/r1.png
+public/seo/YouTube Promotion_2.png
+public/seo/photo_2023-02-03_18-16-42.jpg
+public/seo/photo_2023-02-03_18-16-50.jpg
+public/seo/photo_2023-02-03_18-16-53.jpg
+public/seo/photo_2023-02-03_18-17-00.jpg
+public/seo/photo_2023-02-03_18-17-03.jpg
+public/seo/photo_2023-02-03_18-17-05.jpg
+public/seo/photo_2023-02-03_18-17-08.jpg
+server.ts
+src/App.tsx
+src/components/AIStrategy.tsx
+src/components/Arsenal.tsx
+src/components/Blog.tsx
+src/components/Certificates.tsx
+src/components/FloatingWhatsApp.tsx
+src/components/Footer.tsx
+src/components/Hero.tsx
+src/components/Hotline.tsx
+src/components/Journey.tsx
+src/components/Navbar.tsx
+src/components/Results.tsx
+src/components/Services.tsx
+src/components/WhatsAppChannel.tsx
+src/index.css
+src/lib/utils.ts
+src/main.tsx
+src/pages/ContactPage.tsx
+src/pages/ProofPage.tsx
+tsconfig.json
+untitled.tsx
+update_proof.cjs
+vite.config.ts
