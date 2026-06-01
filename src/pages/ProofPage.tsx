@@ -164,7 +164,7 @@ const worksData: Record<string, WorkData> = {
     "image": "/portfolio/Facebook_and_Instagram_Ads/Screenshot_18.jpg",
     "folders": [
       {
-        "name": "Facebook and Instagram Ads",
+        "name": "Ads & Campaigns Part 1",
         "screenshots": [
           {
             "url": "/portfolio/Facebook_and_Instagram_Ads/1_-_Copy.png",
@@ -301,7 +301,12 @@ const worksData: Record<string, WorkData> = {
           {
             "url": "/portfolio/Facebook_and_Instagram_Ads/LLLLLLLt_3.jpg",
             "caption": "Ads Screenshot 34"
-          },
+          }
+        ]
+      },
+      {
+        "name": "Ads & Campaigns Part 2",
+        "screenshots": [
           {
             "url": "/portfolio/Facebook_and_Instagram_Ads/Screen_Shot_2019-03-12_at_3.28.22_PM_-_Copy.png",
             "caption": "Ads Screenshot 35"
@@ -437,7 +442,12 @@ const worksData: Record<string, WorkData> = {
           {
             "url": "/portfolio/Facebook_and_Instagram_Ads/image_(6)_-_Copy.png",
             "caption": "Ads Screenshot 68"
-          },
+          }
+        ]
+      },
+      {
+        "name": "Ads & Campaigns Part 3",
+        "screenshots": [
           {
             "url": "/portfolio/Facebook_and_Instagram_Ads/image_(6).png",
             "caption": "Ads Screenshot 69"
