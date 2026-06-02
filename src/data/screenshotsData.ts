@@ -1,7 +1,7 @@
 // @ts-ignore
 import amazonBookRegeneratedImage from "../assets/images/regenerated_image_1780403022717.webp";
 // @ts-ignore
-import youtubeRegeneratedImage from "../assets/images/regenerated_image_1780407515901.jpg";
+import youtubeRegeneratedImage from "../assets/images/regenerated_image_1780408388595.png";
 
 export interface ScreenshotItem {
   url: string;
