@@ -13,12 +13,12 @@ export default function Navbar() {
     { name: "AI Strategy", href: isHome ? "#strategy" : "/#strategy" },
     { name: "Journey", href: isHome ? "#journey" : "/#journey" },
     { 
-      name: "Working Proofs", 
+      name: "Working Proof", 
       href: isHome ? "#results" : "/#results",
       subItems: [
         { name: "YouTube Channel Management", href: "/proof/youtube-portfolio" },
         { name: "Google Ads", href: "/proof/google-ads" },
-        { name: "Facebook Ecosystem", href: "/proof/facebook-portfolio" },
+        { name: "Facebook Ecosystem", href: "/proof/facebook-ads" },
         { name: "Amazon Book Promotion", href: "/proof/amazon-book" },
         { name: "Facebook Chatbot", href: "/proof/facebook-chatbot" },
         { name: "Graphic Design", href: "/proof/gig-banners" }

@@ -16,7 +16,7 @@ export default function Footer() {
       title: "Company",
       links: [
         { name: "About Me", href: "/#journey" },
-        { name: "Case Studies", href: "/#results" },
+        { name: "Working Proof", href: "/#results" },
         { name: "WhatsApp Channel", href: "/#whatsapp" },
         { name: "Blog", href: "/#blog" }
       ],
