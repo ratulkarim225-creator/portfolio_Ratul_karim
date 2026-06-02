@@ -6,6 +6,8 @@ import { useEffect, useState } from "react";
 import { motion } from "motion/react";
 // @ts-ignore
 import amazonBookRegeneratedImage from "../assets/images/regenerated_image_1780403022717.webp";
+// @ts-ignore
+import youtubeRegeneratedImage from "../assets/images/regenerated_image_1780407515901.jpg";
 
 type Screenshot = { url: string; caption: string };
 type FolderType = { name: string; screenshots: Screenshot[] };
@@ -29,7 +31,7 @@ const worksData: Record<string, WorkData> = {
       "Monetized Channel",
       "Fast Subscriber Growth"
     ],
-    "image": "/Digital Marketing All Portfolio/Youtube Channel/Video SEO/YouTube Promotion_2.png",
+    "image": youtubeRegeneratedImage,
     "folders": [
       {
         "name": "Channel Creation",
@@ -122,7 +124,7 @@ const worksData: Record<string, WorkData> = {
             "caption": "photo_2023-02-03_18-17-08"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Youtube Channel/Video SEO/YouTube Promotion_2.png",
+            "url": youtubeRegeneratedImage,
             "caption": "YouTube Promotion_2"
           }
         ]

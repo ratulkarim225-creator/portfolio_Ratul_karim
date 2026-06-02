@@ -28,8 +28,13 @@ export default function Hero() {
             </p>
 
             <div className="flex flex-wrap items-center gap-8 sm:gap-10">
-              <button className="bg-dark-green-brand text-white font-bold px-4 py-2 pr-6 rounded-full flex items-center gap-3 hover:opacity-95 transition-all shadow-xl active:scale-95 group">
-                <div className="w-10 h-10 rounded-full border-2 border-white/20 overflow-hidden bg-white/10 p-0.5">
+              <a 
+                href="https://wa.me/message/TJGIJATFT7XNG1"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-dark-green-brand text-white font-bold px-4 py-2 pr-6 rounded-full flex items-center gap-3 hover:opacity-95 transition-all shadow-xl active:scale-95 group cursor-pointer"
+              >
+                <div className="w-10 h-10 rounded-full border-2 border-white/20 overflow-hidden bg-white/10 p-0.5 animate-pulse">
                    <img 
                     src="/r1.png"
                     alt="Founder"
@@ -39,12 +44,17 @@ export default function Hero() {
                 </div>
                 <span className="text-xs sm:text-sm tracking-wider uppercase">GET A FREE AUDIT</span>
                 <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
-              </button>
+              </a>
 
-              <button className="flex items-center gap-3 text-on-surface font-bold text-xs sm:text-sm tracking-wider uppercase hover:text-primary transition-colors group">
+              <a 
+                href="https://wa.me/message/TJGIJATFT7XNG1"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-3 text-on-surface font-bold text-xs sm:text-sm tracking-wider uppercase hover:text-primary transition-colors group cursor-pointer"
+              >
                 WATCH OUR STORY
                 <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
-              </button>
+              </a>
             </div>
           </motion.div>
 

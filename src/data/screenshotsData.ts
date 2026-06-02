@@ -1,5 +1,7 @@
 // @ts-ignore
 import amazonBookRegeneratedImage from "../assets/images/regenerated_image_1780403022717.webp";
+// @ts-ignore
+import youtubeRegeneratedImage from "../assets/images/regenerated_image_1780407515901.jpg";
 
 export interface ScreenshotItem {
   url: string;
@@ -88,7 +90,7 @@ export const allScreenshots: ScreenshotItem[] = [
     subcategory: "Video Promotion"
   },
   {
-    url: "/Digital Marketing All Portfolio/Youtube Channel/Video SEO/YouTube Promotion_2.png",
+    url: youtubeRegeneratedImage,
     caption: "VidIQ 100/100 SEO Scorecard & Elevated Video CTR Chart",
     category: "youtube",
     subcategory: "Video SEO"

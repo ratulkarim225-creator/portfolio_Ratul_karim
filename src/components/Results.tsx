@@ -4,6 +4,8 @@ import { Link } from "react-router-dom";
 import { cn } from "../lib/utils";
 // @ts-ignore
 import amazonBookRegeneratedImage from "../assets/images/regenerated_image_1780403022717.webp";
+// @ts-ignore
+import youtubeRegeneratedImage from "../assets/images/regenerated_image_1780407515901.jpg";
 import { allScreenshots, screenshotCategories, ScreenshotItem } from "../data/screenshotsData";
 
 export default function Results() {
@@ -20,7 +22,7 @@ export default function Results() {
       "category": "YouTube Channel Management",
       "title": "From Channel Creation to Monetization & SEO",
       "desc": "Complete YouTube channel management including creation, video promotion, SEO optimization, and hitting monetization metrics.",
-      "image": "/Digital Marketing All Portfolio/Youtube Channel/Video SEO/YouTube Promotion_2.png"
+      "image": youtubeRegeneratedImage
     },
     {
       "id": "google-ads",
