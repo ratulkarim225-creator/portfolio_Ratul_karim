@@ -4,6 +4,8 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import { useEffect, useState } from "react";
 import { motion } from "motion/react";
+// @ts-ignore
+import amazonBookRegeneratedImage from "../assets/images/regenerated_image_1780403022717.webp";
 
 type Screenshot = { url: string; caption: string };
 type FolderType = { name: string; screenshots: Screenshot[] };
@@ -266,7 +268,7 @@ const worksData: Record<string, WorkData> = {
       "Sales Boost",
       "Organic Engagement"
     ],
-    "image": "/Digital Marketing All Portfolio/Amazon Book Promotin/amazon_book.jpg",
+    "image": amazonBookRegeneratedImage,
     "folders": [
       {
         "name": "Book Covers & Mockups",
@@ -280,7 +282,7 @@ const worksData: Record<string, WorkData> = {
             "caption": "Mockup Book Cover"
           },
           {
-            "url": "/Digital Marketing All Portfolio/Amazon Book Promotin/amazon_book.jpg",
+            "url": amazonBookRegeneratedImage,
             "caption": "Book Promotion Overview"
           }
         ]
@@ -507,38 +509,15 @@ export default function ProofPage() {
                   className="flex flex-col items-center group"
                 >
                   
-                  {/* Mockup Presentation Container */}
-                  <div className="w-full bg-gradient-to-tr from-surface-variant/40 to-primary/5 rounded-[2.5rem] p-4 sm:p-8 md:p-12 shadow-inner border border-outline-variant/50">
-                    
-                    {/* Browser Window App */}
-                    <div className="w-full mx-auto shadow-[0_20px_50px_-12px_rgba(0,0,0,0.15)] rounded-2xl overflow-hidden bg-white border border-outline-variant/50 transition-transform duration-700 ease-out group-hover:scale-[1.02]">
-                      
-                      {/* Browser Top Bar */}
-                      <div className="bg-surface-container-low px-4 py-3 flex items-center border-b border-outline-variant/50 relative">
-                        <div className="flex gap-2 relative z-10">
-                          <div className="w-3 h-3 rounded-full bg-[#FF5F56] border border-[#E0443E]/30 shadow-sm"></div>
-                          <div className="w-3 h-3 rounded-full bg-[#FFBD2E] border border-[#DEA123]/30 shadow-sm"></div>
-                          <div className="w-3 h-3 rounded-full bg-[#27C93F] border border-[#1AAB29]/30 shadow-sm"></div>
-                        </div>
-                        
-                        <div className="absolute inset-0 flex justify-center items-center pointer-events-none">
-                          <div className="bg-white/80 px-6 py-1.5 rounded-lg text-xs font-semibold text-gray-500 font-mono shadow-sm border border-outline-variant/30 hidden sm:block truncate max-w-xs">
-                            {screenshot.caption.toLowerCase().replace(/\s+/g, '-')}
-                          </div>
-                        </div>
-                      </div>
-                      
-                      {/* Inner Image Content */}
-                      <div className="bg-surface relative w-full overflow-hidden">
-                        <img 
-                          src={encodeURI(screenshot.url)} 
-                          alt={screenshot.caption} 
-                          className="w-full h-auto transform transition-transform duration-1000 group-hover:scale-[1.01]"
-                          loading="lazy"
-                          referrerPolicy="no-referrer"
-                        />
-                      </div>
-                    </div>
+                  {/* Image Presentation */}
+                  <div className="w-full mx-auto rounded-2xl overflow-hidden bg-white shadow-xl border border-outline-variant/50 transition-transform duration-700 ease-out group-hover:scale-[1.02]">
+                    <img 
+                      src={encodeURI(screenshot.url)} 
+                      alt={screenshot.caption} 
+                      className="w-full h-auto"
+                      loading="lazy"
+                      referrerPolicy="no-referrer"
+                    />
                   </div>
                   
                   {/* Clean Descriptive Caption */}
